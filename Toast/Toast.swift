@@ -1,6 +1,6 @@
 //
 //  Toast.swift
-//  Toast-Swift
+//  Toast-Swift test
 //
 //  Copyright (c) 2015-2019 Charles Scalesse.
 //
